@@ -1,0 +1,30 @@
+[
+    {
+        "product_name": "Burton Nelson",
+        "quantity_in_stock": "830",
+        "price_per_item": "976",
+        "date_time_submitted": "2024-12-02T21:27:13.466Z",
+        "total_value": 810080
+    },
+    {
+        "product_name": "Jelani Conley",
+        "quantity_in_stock": "898",
+        "price_per_item": "914",
+        "date_time_submitted": "2024-12-02T21:27:20.461Z",
+        "total_value": 820772
+    },
+    {
+        "product_name": "Rachel Mendoza",
+        "quantity_in_stock": "263",
+        "price_per_item": "56",
+        "date_time_submitted": "2024-12-02T21:27:24.680Z",
+        "total_value": 14728
+    },
+    {
+        "product_name": "Vera Hurley",
+        "quantity_in_stock": "402",
+        "price_per_item": "201",
+        "date_time_submitted": "2024-12-02T21:27:59.829Z",
+        "total_value": 80802
+    }
+]
